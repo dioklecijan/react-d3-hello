@@ -2,4 +2,5 @@
 
 Minimum React + d3js example
 
-Created with CodeSandbox
+![HelloD3](./HelloD3.png "Hello D3")
+
